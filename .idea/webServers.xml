@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="969c4a1f-11fe-4281-b0ce-963d6b84ccfb" name="Kafka_Vultr_Dallas" url="http://45.76.239.173">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="45.76.239.173" port="22" sshConfigId="f5e2a48c-36fa-4df2-b3bf-d3573ff0ccf5" sshConfig="root@45.76.239.173:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
